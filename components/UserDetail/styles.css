@@ -1,0 +1,10 @@
+.user_detail_name {
+    box-shadow: 2px 2px 2px grey;
+    background-color: lightgreen;
+    text-decoration: underline;
+    border-radius: 5px;
+}
+
+.user_detail {
+    box-shadow: 1px 1px 1px grey;}
+

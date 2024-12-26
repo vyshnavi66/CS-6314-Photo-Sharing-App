@@ -1,0 +1,26 @@
+.usernames-list {
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(114, 149, 245, 0.1); 
+}
+  
+.username_listitem {
+    transition: background-color 0.3s; 
+}
+  
+.username_listitem:hover {
+    cursor: pointer; 
+    background-color: rgb(153, 175, 236); 
+}
+ 
+.username-text {
+    font-size: 1.2rem; 
+    font-family: 'Times New Roman', Times, serif;
+    color: darkblue; 
+}
+  
+.usernames_divider {
+    margin: 0; 
+    background-color: grey; 
+    box-shadow: 0 2px 4px rgba(215, 187, 187, 0.1); 
+}
+  
