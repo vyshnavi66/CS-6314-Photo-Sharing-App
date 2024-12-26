@@ -1,0 +1,44 @@
+Project 8 - Submission Form
+
+************************************ ***********************************
+
+* Story number and name:  1-Extend user profile detail with usage
+* Story points:  3
+* Brief description to see the story in action:
+* On the user detail page, view thumbnails and metadata for the most recently uploaded photo and the photo with the most comments. Clicking these images navigates to the corresponding user's photos page, displaying the selected photo with all comments.
+***********************************
+* Story number and name:  4 - Activity Feed
+* Story points:  4
+* Brief description to see the story in action:
+* Push the button labeled "Activities" on the toolbar to view the 5 most recent activities in reverse chronological order. Each activity includes the date and time, user name, activity type, and related details (e.g., thumbnail for photo uploads and comments). The list updates automatically or through the refresh button.
+***********************************
+* Story number and name:  7 - Favorite List of Photos for Users
+* Story points:  6
+* Brief description to see the story in action:
+* Log in as a user and click the "Favorites" link to view the dedicated page at /favorites. Users can mark any photo as a favorite using the button next to it. After you favourite a photo you can see clear indication  where favourite icon border changes to favourite icon. On the Favorites page, thumbnails are displayed, and clicking on a thumbnail opens a modal with the full image and caption. Users can remove photos from the favorites list, which persists across sessions. 
+***********************************
+* Story number and name:  8 - Sidebar List Marks Users with New Activity
+* Story points:  3
+* Brief description to see the story in action:
+* The sidebar user list now includes the last activity for each user, such as posting a photo (with a thumbnail), adding a comment, registering, logging in, or logging out. The display updates automatically.
+***********************************
+*
+* Total Story Points: 16
+* 
+* Marketing Video URL:
+https://cometmail-my.sharepoint.com/:v:/g/personal/lxu220003_utdallas_edu/Eb7NVI4961xBoPEPy4CMEI4B5zMtKuOcJZwxfF5A37Trnw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=ZglXXu
+* 
+* Is it OK if we post your Marketing Video URL on the class discussion forum?
+* Yes
+* 
+* Any special instructions for grading (it should be easy for someone to run
+* your app from a new machine):
+* None
+************************************ ***********************************
+
+
+
+
+
+
+
